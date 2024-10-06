@@ -1,0 +1,4 @@
+Mi IP Publica es: 181.45.97.45
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$WyK8nLJZmspC1Pf9viGI.0$lPCpDaZXec/72iq4aSZ9wmmmjbteGCusyvGK5lwzE98
+La URL de mi repositorio es: git@github.com:LuCotti/UTNFRA_SO_1P2C_2024_Cotti.git
